@@ -8,6 +8,9 @@
   <a href="mailto:vallabhanenipreetam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="tel:+15712767511">
+    <img src="https://img.shields.io/badge/Mobile-%2B1%20571%20276%207511-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
+  </a>
 </div>
 
 <br/>
