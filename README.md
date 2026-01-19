@@ -22,7 +22,7 @@ My passion lies in building intelligent systems that solve real-world problems, 
 - 🔬 **Research:** Published *"Machine Learning based Malware Detection for IoT Networks"* in **IEEE CICN**.
 - 💼 **Experience:** Former Research Intern at **SRM University** and Software Developer at **Smartbridge**.
 - 🏆 **Leadership:** Served as **President of the Student Council**, representing 8,000+ students.
-- 🔭 **Currently working on:** Advanced RAG pipelines and Generative AI applications.
+
 
 ---
 
