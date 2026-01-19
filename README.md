@@ -22,7 +22,7 @@ My passion lies in building intelligent systems that solve real-world problems, 
 - 🔬 **Research:** Published *"Machine Learning based Malware Detection for IoT Networks"* in **IEEE CICN**.
 - 💼 **Experience:** Former Research Intern at **SRM University** and Software Developer at **Smartbridge**.
 - 🏆 **Leadership:** Served as **President of the Student Council**, representing 8,000+ students.
-
+- 🔭 **Currently working on:** Advanced RAG pipelines and Generative AI applications.
 
 ---
 
@@ -31,21 +31,6 @@ My passion lies in building intelligent systems that solve real-world problems, 
 | **Languages** | **AI/ML & Data Science** | **Cloud & DevOps** | **Web & Databases** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,r,matlab" width="250"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy" width="250"/> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" width="250"/> | <img src="https://skillicons.dev/icons?i=react,html,css,mysql,mongodb,firebase" width="250"/> |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetam2222&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2222&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetam2222&theme=radical&hide_border=true" alt="streak stats" />
-</div>
 
 ---
 
