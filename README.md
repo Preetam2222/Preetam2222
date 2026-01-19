@@ -9,13 +9,13 @@
   <em>Graduate student at George Washington University specializing in Computer Science, with a strong foundation in Machine Learning, IoT Security, and Full Stack Development.</em>
 </p>
 
-- [cite_start]🎓 I’m currently pursuing my **M.S. in Computer Science at George Washington University** (DC)[cite: 4, 5].
+- 🎓 I’m currently pursuing my **M.S. in Computer Science at George Washington University** (DC).
 
-- [cite_start]📄 Published Research: **"Machine Learning based Malware Detection for IoT Networks" (IEEE CICN)**[cite: 42].
+- 📄 Published Research: **"Machine Learning based Malware Detection for IoT Networks" (IEEE CICN)**.
 
-- [cite_start]🏆 Leadership: **Former President of Student Council at SRM University (Represented 8000+ students)**[cite: 46].
+- 🏆 Leadership: **Former President of Student Council at SRM University (Represented 8000+ students)**.
 
-- [cite_start]📫 How to reach me: **<a href="mailto:vallabhanenipreetam@gmail.com">vallabhanenipreetam@gmail.com</a>**[cite: 2].
+- 📫 How to reach me: **<a href="mailto:vallabhanenipreetam@gmail.com">vallabhanenipreetam@gmail.com</a>**
 
 <br/>
 
