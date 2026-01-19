@@ -12,10 +12,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="preetamV.jpg" align="right" width="250" alt="Preetam Profile" style="border-radius: 50%; margin-left: 20px;" />
-</div>
-
 ### 🚀 About Me
 
 I am a Graduate student specializing in Computer Science at **George Washington University**, combining a strong foundation in **Machine Learning**, **IoT Security**, and **Full Stack Development**. 
@@ -27,8 +23,6 @@ My passion lies in building intelligent systems that solve real-world problems, 
 - 💼 **Experience:** Former Research Intern at **SRM University** and Software Developer at **Smartbridge**.
 - 🏆 **Leadership:** Served as **President of the Student Council**, representing 8,000+ students.
 - 🔭 **Currently working on:** Advanced RAG pipelines and Generative AI applications.
-
-<br clear="right"/>
 
 ---
 
