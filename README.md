@@ -9,24 +9,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence with special emphasis on Deep Learning Techniques**
 
-- 📫 How to reach me: **<a href="mailto:vallabhanenipreetam@gmail.com">vallabhanenipreetam@gmail.com</a>**
+- 📫 How to reach me: **[vallabhanenipreetam@gmail.com](mailto:vallabhanenipreetam@gmail.com)**
 
 - ⚡ Fun fact: **I aspire to be the next president of India**
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetam2222&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2222&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/preetam-vallabhaneni" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetam-vallabhaneni" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/preetam-vallabhaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetam-vallabhaneni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
