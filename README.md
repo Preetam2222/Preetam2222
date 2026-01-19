@@ -13,18 +13,18 @@
 <br/>
 
 <div align="center">
-  <img src="./IMG_1905 2.jpg" align="right" width="250" alt="Preetam Profile" style="border-radius: 50%; margin-left: 20px;" />
+  <img src="preetamV.jpg" align="right" width="250" alt="Preetam Profile" style="border-radius: 50%; margin-left: 20px;" />
 </div>
 
 ### 🚀 About Me
 
-I am a Graduate student specializing in Computer Science at **George Washington University**, combining a strong foundation in **Machine Learning**, **IoT Security**, and **Full Stack Development**. 
+[cite_start]I am a Graduate student specializing in Computer Science at **George Washington University** [cite: 4][cite_start], combining a strong foundation in **Machine Learning** [cite: 9][cite_start], **IoT Security**[cite: 17], and **Full Stack Development**. 
 
 My passion lies in building intelligent systems that solve real-world problems, from healthcare IoT security to predictive analytics.
 
-- 🎓 **Education:** M.S. in Computer Science at **George Washington University** (DC).
+- [cite_start]🎓 **Education:** M.S. in Computer Science at **George Washington University** (DC)[cite: 4, 5].
 - [cite_start]🔬 **Research:** Published *"Machine Learning based Malware Detection for IoT Networks"* in **IEEE CICN**[cite: 42].
-- [cite_start]💼 **Experience:** Former Research Intern at **SRM University** and Software Developer at **Smartbridge**[cite: 12, 27].
+- [cite_start]💼 **Experience:** Former Research Intern at **SRM University** [cite: 12, 13] [cite_start]and Software Developer at **Smartbridge**[cite: 26, 27].
 - [cite_start]🏆 **Leadership:** Served as **President of the Student Council**, representing 8,000+ students[cite: 46].
 - 🔭 **Currently working on:** Advanced RAG pipelines and Generative AI applications.
 
